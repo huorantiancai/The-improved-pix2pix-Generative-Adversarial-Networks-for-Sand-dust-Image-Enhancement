@@ -1,0 +1,4 @@
+python3 test.py --dataroot ./xx/ --name sc_pix2pix --model pix2pix --direction BtoA
+
+
+python3 train.py --dataroot ./xx/ --name sc_pix2pix --model pix2pix --direction BtoA
